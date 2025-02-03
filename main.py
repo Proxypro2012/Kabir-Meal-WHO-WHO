@@ -8,13 +8,14 @@ import streamlit_antd_components as sac
 
 
 r1col1, r1col2, r1col3 = st.columns([1, 2, 1])
+r2col1, r2col2, r2col3 = st.columns([1, 2, 1])
 
 
 with r1col2:
   st.title("The Microwave Coffee")
   st.image("Coffee.JPG", caption="Price: $6.99 for pack of two.")
   
-with r1col1:
+with r2col1:
   st.header("FAQ")
   st.text("Where can I buy it?")
   st.info("At this really cool fast-food place known as the Starbucks, famous for its Coffee and other food elements")

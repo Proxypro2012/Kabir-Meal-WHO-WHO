@@ -12,8 +12,11 @@ r1col1, r1col2, r1col3 = st.columns([1, 2, 1])
 
 with r1col2:
   st.title("The Microwave Coffee")
-  st.image("Coffee.JPG")
+  st.image("Coffee.JPG", caption="Price: $6.99 for pack of two.")
   
+with r1col1:
+  st.header("FAQ")
+  st.
 
 streamlit_extras.let_it_rain.rain('•', 20, falling_speed=5, animation_length="infinite")
 

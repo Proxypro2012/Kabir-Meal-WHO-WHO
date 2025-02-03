@@ -16,7 +16,8 @@ with r1col2:
   
 with r1col1:
   st.header("FAQ")
-  st.
+  st.text("Where can I buy it?")
+  st.info("At this really cool fast-food place known as the Starbucks, famous for its Coffee and other food elements")
 
 streamlit_extras.let_it_rain.rain('•', 20, falling_speed=5, animation_length="infinite")
 

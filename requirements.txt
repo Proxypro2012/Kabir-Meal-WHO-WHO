@@ -1,4 +1,4 @@
-streamlit_extras
+
 streamlit
 streamlit_shadcn_ui
 streamlit_antd_components

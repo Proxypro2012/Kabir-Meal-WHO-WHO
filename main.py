@@ -14,6 +14,12 @@ r2col1, r2col2, r2col3 = st.columns([1, 2, 1])
 with r1col2:
   st.title("The Microwave Coffee")
   st.image("Coffee.JPG", caption="Price: $6.99 for pack of two.")
+
+
+with r1col3:
+  st.info("Meet the Microwavable Coffee! Drinking this will give you 10 aura points (per gallon. DRINK A LOT to max out your aura!). This coffe is microwavable! Just pour out the powder into a cup, send it into the microwave, and out comes your steaming hot coffee!")
+
+
   
 with r2col1:
   st.header("FAQ")

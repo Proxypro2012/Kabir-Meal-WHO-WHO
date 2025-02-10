@@ -17,7 +17,7 @@ with r1col2:
 
 
 with r1col3:
-  st.info("Meet the Microwavable Coffee! Drinking this will give you 10 aura points (per gallon. DRINK A LOT to max out your aura!). This coffe is microwavable! Just pour out the powder into a cup, send it into the microwave, and out comes your steaming hot coffee!")
+  st.info("Hi Alex. Meet the Microwavable Coffee! Drinking this will give you 10 aura points (per gallon. DRINK A LOT to max out your aura!). This coffe is microwavable! Just pour out the powder into a cup, send it into the microwave, and out comes your steaming hot coffee!")
 
 
   
